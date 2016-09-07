@@ -1,4 +1,4 @@
-# Patchwork Docker Pub
+# Patchwork Docker
 
 A [docker](https://www.docker.com/) container for [pathcwork](http://ssbc.github.io/patchwork/) pub server.
 
