@@ -10,6 +10,7 @@ docker run \
   -v /home/patchwork/data:/root/.ssb \
   -p 8008:8008 \
   --name patchwork \
+  --restart=always \
   -d asbjornenge/patchwork:1.0.0
 ```
 
